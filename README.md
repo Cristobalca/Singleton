@@ -1,0 +1,2 @@
+# Singleton
+Patron de Diseño
